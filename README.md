@@ -1,6 +1,6 @@
 # CNoCurseWords
-CNoCurseWords is a clang plugin that well bans curse word anywhere in the code
-any inclustion of curse is most welcome
+CNoCurseWords is a clang plugin that well bans curse word anywhere in the code.
+any inclustion of curses is most welcome
 
 How to use:
 ## Clone the repo
